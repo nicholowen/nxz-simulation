@@ -1,0 +1,17 @@
+.sectionBody {
+    display: inline-block;
+    flex-direction: column;
+    align-items: "center";
+    justify-content: center;
+    width: 700px;
+}
+
+.textBody {
+    text-align: center;
+}
+
+img {
+    width: 700px;
+    height: 400px;
+}
+
